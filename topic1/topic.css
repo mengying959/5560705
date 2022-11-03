@@ -173,11 +173,11 @@ a:hover {
  }
  
  .carousel-item:nth-child(1) {
-  background-image: url('/image/banner-2.jpg');
+  background-image: url('./image/banner-2.jpg');
  }
  
  .carousel-item:nth-child(2) {
-  background-image: url('/image/banner-3.jpg');
+  background-image: url('./image/banner-3.jpg');
  }
  
  .productsbox+.productsbox {
